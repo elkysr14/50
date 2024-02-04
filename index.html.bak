@@ -10,11 +10,13 @@ color: white;
 text-align: center;
 margin: 0px;
 overflow: hidden;
+
 }
-body{background:size:;
+body{background:
 linear-gradient
 (to bottom right)
-;font-size:cover
+;font-size:20px
+}
 }
 .info
 {position:
